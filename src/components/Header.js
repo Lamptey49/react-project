@@ -8,7 +8,7 @@ const Header = () => {
         <div>
             <header className="header">
                 <div className="container">
-                  <h1 className="title">Mavel's Fearless</h1>
+                  <h1 className="title">Marvel's Fearless</h1>
                   <p className="subtitle">
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. beatae
                     molestias earum eveniet.
